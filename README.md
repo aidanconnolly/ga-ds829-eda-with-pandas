@@ -30,10 +30,6 @@ Unit 2 : Working with Data | Lesson 3 : Exploratory Data Analysis
 
 ## Learning Objectives
 
-### Part 1: Data Visualization Overview
-
-### Learning Objectives
-
 - **Define** what Pandas is
 - **Manipulate** Pandas DataFrames and Series
 - **Filter and sort** Pandas data
@@ -43,8 +39,6 @@ Unit 2 : Working with Data | Lesson 3 : Exploratory Data Analysis
 ---
 
 ## Lesson Outline
-
-### Pandas for Exploratory Data Analysis
 
 - What is Pandas
 - Reading Files, Selecting Columns, and Summarizing
