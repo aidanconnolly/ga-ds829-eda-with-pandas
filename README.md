@@ -1,51 +1,75 @@
 # Exploratory-Data-Analysis
 Unit 2 : Working with Data | Lesson 3 : Exploratory Data Analysis 
 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Visualizations
 
-**Notebook:** [Pandas for Exploratory Data Analysis.ipynb](./Pandas for Exploratory Data Analysis.ipynb)
-**Solution:** [Pandas for Exploratory Data Analysis-Solution.ipynb](./solution-code/Pandas for Exploratory Data Analysis-Solution.ipynb)
+> Unit 2, Lesson 4
 
-### Datasets Used (_tsv_: tab-separated, _tbl_: tabular, "|"-separated):
-- [drinks.csv](data/drinks.csv): country/continent/servings of beer&wine&spirits&alcohol
-- [ufo.csv](data/ufo.csv): ufo sightings, city/state/colors/shape/time
+---
 
-The following datasets go together. The movie IDs and user IDs are consistent between them:
-- [movies.tbl](data/movies.tbl): movie titles&info from IMDB
-- [user.tbl](data/user.tbl): user ID/age/gender/occupation/zipcode
-- [movie_ratings.tsv](data/movie_ratings.tsv): user ID/movie ID/rating/timestamp
+## Materials We Provide
 
+| Topic | Description | Link |
+| --- | --- | --- |
+| Lesson | Pandas for Exploratory Data Analysis (ipynb slides) | [Here](exploratory-data-analysis.ipynb) |
+| Solution  | Completed template from lesson | [Here](solution-code/exploratory-data-analysis-solution.ipynb) |
+| Datasets | Country/continent/servings of alcohol | [Here](./data/drinks.csv) |
+|          | UFO sighting records | [Here](./data/ufo.csv) |
+|          | Movie & Title Info from IMDB | [Here](./data/movies.tbl) |
+|          | User Info from IMDB | [Here](./data/user.tbl) |
+|          | Movie & Title Info from IMDB | [Here](./data/movies.tbl) |
+<!--| Source Materials | Original files used to create this lesson | -- |-->
+*Note: Datasets have 3 types. ".csv" files are separated by commas, ".tsv" by tabs, and ".tbl" by "|" character*
 
-### Learning Objectives
+**Instructor:**
+- Start with the lesson Jupyter slide deck.
+- Next, walk the students through the lab.
+- Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
 
-- **Understand** what Pandas is
+---
+
+## Learning Objectives
+
+- **Define** what Pandas is
 - **Manipulate** Pandas DataFrames and Series
 - **Filter and sort** Pandas data
 - **Manipulate** DataFrame columns
 - **Know** how to handle null and missing values
-- **Practice** the split-apply-combine pattern
 
+---
 
-### Lesson Guide
+## Lesson Outline
 
-- [What is Pandas](#pandas)
-- [Reading Files, Selecting Columns, and Summarizing](#reading-files)
-    - [EXERCISE ONE](#exercise-one)
-    
-    
-- [Filtering and Sorting](#filtering-and-sorting)
-    - [EXERCISE TWO](#exercise-two)
-    
-    
-- [Renaming, Adding, and Removing Columns](#columns)
-- [Handling Missing Values](#missing-values)
-    - [EXERCISE THREE](#exercise-three)
-    
-    
-- [Split-Apply-Combine](#split-apply-combine)
-    - [EXERCISE FOUR](#exercise-four)
-    
-    
-- [Selecting Multiple Columns and Filtering Rows](#multiple-columns)
-- [Joining (Merging) DataFrames](#joining-dataframes)
-- [Other Commonly Used Features](#other-features)
-- [Other Less Used Features of Pandas](#uncommon-features)
+- What is Pandas
+- Reading Files, Selecting Columns, and Summarizing
+    - EXERCISE ONE
+- Filtering and Sorting
+    - EXERCISE TWO
+- Renaming, Adding, and Removing Columns
+- Handling Missing Values
+    - EXERCISE THREE
+- Split-Apply-Combine
+    - EXERCISE FOUR
+- Selecting Multiple Columns and Filtering Rows
+- Joining (Merging) DataFrames
+- Other Commonly Used Features
+- Other Less Used Features of Pandas
+- Summary
+
+---
+
+## Student Requirements
+
+Before this lesson(s), students should already be able to:
+
+- Recall and define the basic syntax for Python code
+
+---
+
+## Additional Resources
+
+For more information on this topic, check out the following resources:
+
+- [List of Resources from Data School](http://www.dataschool.io/best-python-pandas-resources/)
+- [Another EDA Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python#gs.T3TSKbk)
+- [A discussion forum on the topic](https://www.kaggle.com/general/12796)
