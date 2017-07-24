@@ -26,6 +26,8 @@ Unit 2 : Working with Data | Lesson 3 : Exploratory Data Analysis
 - Next, walk the students through the lab.
 - Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
 
+This lesson purposefully uses a large number of datasets. This allows students to practice opening different types of data files. So, it would be useful to emphasize manually looking at the files to identify the separator and header. Having many datasets available allows us to explore a variety of themes throughout the lesson that might not be present in one dataset alone.
+
 ---
 
 ## Learning Objectives
@@ -40,20 +42,21 @@ Unit 2 : Working with Data | Lesson 3 : Exploratory Data Analysis
 
 ## Lesson Outline
 
-- What is Pandas
-- Reading Files, Selecting Columns, and Summarizing
-    - EXERCISE ONE
-- Filtering and Sorting
-    - EXERCISE TWO
-- Renaming, Adding, and Removing Columns
-- Handling Missing Values
-    - EXERCISE THREE
-- Split-Apply-Combine
-    - EXERCISE FOUR
-- Selecting Multiple Columns and Filtering Rows
-- Joining (Merging) DataFrames
-- Other Commonly Used Features
-- Other Less Used Features of Pandas
+TOTAL: 170 mins
+- What is Pandas (20 mins)
+- Reading Files, Selecting Columns, and Summarizing (15 mins)
+    - EXERCISE ONE (15 mins)
+- Filtering and Sorting (15 mins)
+    - EXERCISE TWO (15 mins)
+- Renaming, Adding, and Removing Columns (15 mins)
+- Handling Missing Values (15 mins)
+    - EXERCISE THREE (15 mins)
+- Split-Apply-Combine (15 mins)
+    - EXERCISE FOUR (15 mins)
+- Selecting Multiple Columns and Filtering Rows (10 mins)
+- Joining (Merging) DataFrames (5 mins)
+- OPTIONAL: Other Commonly Used Features
+- OPTIONAL: Other Less Used Features of Pandas
 - Summary
 
 ---
