@@ -32,9 +32,6 @@ See https://git.generalassemb.ly/data-part-time/eda-with-pandas/issues/28 for mo
 [L-1]: ./pandas-i.ipynb
 [L-2]: ./pandas-ii.ipynb
 [L-3]: ./pandas-join.ipynb
-[S-1]: 
-[S-2]: 
-[S-3]: 
 [D-1]: ./data/Production.Product.csv
 [D-2]: ./data/Production.ProductSubCategory.csv
 [D-3]: ./data/Sales.SalesOrderDetail.csv
