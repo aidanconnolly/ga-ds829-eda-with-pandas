@@ -20,9 +20,9 @@ See https://git.generalassemb.ly/data-part-time/eda-with-pandas/issues/28 for mo
 | Lessons   | Pandas for Exploratory Data Analysis I                 | [Here][L-1] |
 |           | Pandas for Exploratory Data Analysis II                | [Here][L-2] |
 |           | Pandas Joining Operations                              | [Here][L-3] |
-| Solution  | Pandas for Exploratory Data Analysis I                 | [Here]      |
-|           | Pandas for Exploratory Data Analysis II                | [Here]      |
-|           | Pandas Joining Operations                              | [Here]      |
+| Solution  | Pandas for Exploratory Data Analysis I                 | Here        |
+|           | Pandas for Exploratory Data Analysis II                | Here        |
+|           | Pandas Joining Operations                              | Here        |
 | Datasets  | AdventureWorks Production.Product                      | [Here][D-1] |
 |           | AdventureWorks Production.ProductSubCategory           | [Here][D-2] |
 |           | AdventureWorks Sales.SalesOrderDetail                  | [Here][D-3] |
@@ -32,9 +32,6 @@ See https://git.generalassemb.ly/data-part-time/eda-with-pandas/issues/28 for mo
 [L-1]: ./pandas-i.ipynb
 [L-2]: ./pandas-ii.ipynb
 [L-3]: ./pandas-join.ipynb
-[S-1]: 
-[S-2]: 
-[S-3]: 
 [D-1]: ./data/Production.Product.csv
 [D-2]: ./data/Production.ProductSubCategory.csv
 [D-3]: ./data/Sales.SalesOrderDetail.csv
