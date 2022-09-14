@@ -20,25 +20,25 @@ See https://git.generalassemb.ly/data-part-time/eda-with-pandas/issues/28 for mo
 | Lessons   | Pandas for Exploratory Data Analysis I                 | [Here][L-1] |
 |           | Pandas for Exploratory Data Analysis II                | [Here][L-2] |
 |           | Pandas Joining Operations                              | [Here][L-3] |
-| Solution  | Pandas for Exploratory Data Analysis I                 | [Here][S-1] |
-|           | Pandas for Exploratory Data Analysis II                | [Here][S-2] |
-|           | Pandas Joining Operations                              | [Here][S-3] |
+| Solution  | Pandas for Exploratory Data Analysis I                 | [Here]      |
+|           | Pandas for Exploratory Data Analysis II                | [Here]      |
+|           | Pandas Joining Operations                              | [Here]      |
 | Datasets  | AdventureWorks Production.Product                      | [Here][D-1] |
 |           | AdventureWorks Production.ProductSubCategory           | [Here][D-2] |
 |           | AdventureWorks Sales.SalesOrderDetail                  | [Here][D-3] |
 |           | AdventureWorks Sales.SalesOrderHeader                  | [Here][D-4] |
 
 
-[L-1]: ./02-pandas-i/code/intro-to-pandas-i.ipynb
-[L-2]: ./05-pandas-ii/code/pandas-ii.ipynb
-[L-3]: ./ga_join/code/pandas-join.ipynb
-[S-1]: ./02-pandas-i/code/intro-to-pandas-i-answers.ipynb
-[S-2]: ./05-pandas-ii/code/pandas-ii-answers.ipynb
-[S-3]: ./ga_join/code/pandas-join-answers.ipynb
-[D-1]: ./ga_join/data/Production.Product.csv
-[D-2]: ./ga_join/data/Production.ProductSubCategory.csv
-[D-3]: ./ga_join/data/Sales.SalesOrderDetail.csv
-[D-4]: ./ga_join/data/Sales.SalesOrderHeader.csv
+[L-1]: ./pandas-i.ipynb
+[L-2]: ./pandas-ii.ipynb
+[L-3]: ./pandas-join.ipynb
+[S-1]: 
+[S-2]: 
+[S-3]: 
+[D-1]: ./data/Production.Product.csv
+[D-2]: ./data/Production.ProductSubCategory.csv
+[D-3]: ./data/Sales.SalesOrderDetail.csv
+[D-4]: ./data/Sales.SalesOrderHeader.csv
 
 ---
 
