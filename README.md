@@ -61,8 +61,6 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> Instructor Note: Start with the lesson Jupyter slide deck. Next, walk the students through the lab. Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
-
 > TOTAL: 170 mins
 
 - Pandas I
@@ -88,5 +86,4 @@ For more information on this topic, check out the following resources:
 
 - [List of Resources from Data School](http://www.dataschool.io/best-python-pandas-resources/)
 - [Another EDA Tutorial](https://www.datacamp.com/community/tutorials/exploratory-data-analysis-python#gs.T3TSKbk)
-- [A discussion forum on the topic](https://www.kaggle.com/general/12796)
-~                                                                            
+- [A discussion forum on the topic](https://www.kaggle.com/general/12796)                                                                            
