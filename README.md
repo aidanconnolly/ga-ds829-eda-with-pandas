@@ -61,22 +61,21 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> TOTAL: 170 mins
+> TOTAL: 155 mins
 
 - Pandas I
   - What is Pandas (5 mins)
-  - Reading Files, Selecting Columns, and Summarizing (15 mins)
-  - Renaming, Adding, and Removing Columns (15 mins)
-  - Filtering and Sorting (15 mins)
-  - Independent Exercises (30 mins)
+  - Reading Files, Selecting Columns, and Summarizing (7 mins)
+  - Renaming, Adding, and Removing Columns (13 mins)
+  - Filtering and Sorting (10 mins)
+  - Group Exercises (20 mins)
 - Pandas II
-  - Handling Missing Values (15 mins)
-  - Groupby / Apply (15 mins)
-  - Independent Exercises (30 mins)
+  - Handling Missing Values (25 mins)
+  - Groupby / Apply (25 mins)
 - Pandas Joining
-  - Concatenate and Append (5 mins)
-  - Join and Merge (10 mins)
-  - Independent Exercises (15 mins)
+  - Concatenate and Append (15 mins)
+  - Join and Merge (15 mins)
+  - Group Exercises (20 mins)
 
 ---
 
