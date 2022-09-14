@@ -61,8 +61,6 @@ Before this lesson(s), students should already be able to:
 
 ## Lesson Outline
 
-> Instructor Note: Start with the lesson Jupyter slide deck. Next, walk the students through the lab. Periodically stop and let the students try the challenges. The challenges are typically just 1-3 lines of code that are very similar to what was just discussed.
-
 > TOTAL: 170 mins
 
 - Pandas I
